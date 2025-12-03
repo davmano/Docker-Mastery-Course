@@ -1,5 +1,5 @@
-# 🐳 Docker Mastery for Senior DevOps Engineers (Linux Edition)
-**Author:** David Mano – *Senior DevOps Engineer*  
+# 🐳 Docker Mastery for DevOps Engineers (Linux Edition)
+**Author:** David Mano – *DevOps Engineer*  
 **Edition:** Linux (Ubuntu) | **Visual Style:** Dark Terminal  
 
 ---
